@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from transformers import T5ForConditionalGeneration, T5Tokenizer
