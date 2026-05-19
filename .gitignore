@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+
+# Model files (will be downloaded at runtime)
+downloaded_model/
+model.zip
+*.bin
+*.h5
+*.pth
