@@ -285,3 +285,7 @@ Press `Ctrl + C` in the CMD window that's running the server.
 ## License
 
 This project is for personal/educational use. Check the license of your fine-tuned T5 model for any restrictions.
+
+---
+
+Made with ☕ and Python for developers who just want things to work.
