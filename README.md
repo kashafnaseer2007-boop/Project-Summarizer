@@ -288,4 +288,4 @@ This project is for personal/educational use. Check the license of your fine-tun
 
 ---
 
-Made with ☕ and Python for developers who just want things to be working.
+Made with ☕ and Python for developers who just want things to be done.
